@@ -1,7 +1,7 @@
 <div align="center">
 
 # Chau Quoc Inh
-### Java Backend Developer · FPT University · Can Tho, Vietnam
+### Software Engineering · FPT University · Can Tho, Vietnam
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ch%C3%A2u-qu%E1%BB%91c-inh-559499372/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/chauquocinh)
