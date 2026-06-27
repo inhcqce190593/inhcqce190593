@@ -141,7 +141,7 @@ AI camera system detecting fall postures and sending instant emergency alerts â€
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inhcqce190593&theme=dark&hide_border=true&layout=compact&hide=python,html,jupyter%20notebook,css,javascript,c%2B%2B,c,makefile,dockerfile,tsql&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inhcqce190593&theme=dark&hide_border=true&layout=compact&hide=jupyter%20notebook,makefile,dockerfile,tsql,c%2B%2B,batchfile&langs_count=6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inhcqce190593&theme=dark&hide_border=true)
 
