@@ -14,7 +14,7 @@
 
 ## About Me
 
-Third-year **Software Engineering** student at FPT University, focused on **Java Backend Development**.
+Third-year **Software Engineering** student at FPT University, focused on **Software Engineering**.
 Hands-on experience deploying production systems with Spring Boot/JPA, with additional background in AI/Computer Vision and Embedded IoT.
 
 - Core skills: **Java · Spring Boot · Spring Data JPA · REST API · MySQL**
