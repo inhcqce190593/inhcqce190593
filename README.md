@@ -136,13 +136,12 @@ AI camera system detecting fall postures and sending instant emergency alerts â€
 
 ---
 
+
 ## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inhcqce190593&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=python,html,jupyter%20notebook,css,javascript)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inhcqce190593&theme=dark&hide_border=true&layout=compact&hide=python,html,jupyter%20notebook,css,javascript&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inhcqce190593&theme=dark&hide_border=true&layout=compact&hide=python,html,jupyter%20notebook,css,javascript,c%2B%2B,c,makefile,dockerfile,tsql&langs_count=6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inhcqce190593&theme=dark&hide_border=true)
 
@@ -151,6 +150,8 @@ AI camera system detecting fall postures and sending instant emergency alerts â€
 ---
 
 <div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=inhcqce190593&icon=5&color=6)](https://visitcount.itsvg.in)
 
