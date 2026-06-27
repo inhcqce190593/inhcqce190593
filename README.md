@@ -140,7 +140,9 @@ Camera AI phát hiện tư thế người ngã, gửi cảnh báo khẩn cấp t
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inhcqce190593&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inhcqce190593&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=python,html,jupyter%20notebook,css,javascript)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inhcqce190593&theme=dark&hide_border=true&layout=compact&hide=python,html,jupyter%20notebook,css,javascript&langs_count=6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inhcqce190593&theme=dark&hide_border=true)
 
