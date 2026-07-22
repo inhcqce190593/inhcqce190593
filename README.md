@@ -141,13 +141,13 @@ AI camera system detecting fall postures and sending instant emergency alerts â€
 <div align="center">
 
 <a href="https://github.com/inhcqce190593">
-  <img src="https://github-readme-stats-nine-psi-qwdwlpuy5v.vercel.app/api?username=LHB16&theme=tokyonight&show_icons=true&v=4#.svg" alt="LHB16's GitHub stats" />
+  <img src="https://github-readme-stats-nine-psi-qwdwlpuy5v.vercel.app/api?username=inhcqce190593&theme=tokyonight&show_icons=true&v=4#.svg" alt="inhcqce190593's GitHub stats" />
 </a>
 
 <br/>
 
-<a href="https://github.com/LHB16">
-  <img src="https://streak-stats.demolab.com/?user=LHB16&theme=tokyonight" alt="LHB16's Streak" />
+<a href="https://github.com/inhcqce1905936">
+  <img src="https://streak-stats.demolab.com/?user=inhcqce190593&theme=tokyonight" alt="inhcqce190593's Streak" />
 </a>
 
 <br/>
