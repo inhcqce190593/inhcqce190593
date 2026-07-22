@@ -136,22 +136,25 @@ AI camera system detecting fall postures and sending instant emergency alerts â€
 
 ---
 
-## GitHub Stats
+## ðŸ“Š GitHub Stats
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inhcqce190593&theme=dark&hide_border=true&layout=compact&hide=Jupyter%20Notebook,Makefile,Dockerfile,TSQL,C%2B%2B,Batchfile&langs_count=6&v=1)
+<a href="https://github.com/LHB16">
+  <img src="https://github-readme-stats-nine-psi-qwdwlpuy5v.vercel.app/api?username=LHB16&theme=tokyonight&show_icons=true&v=4#.svg" alt="LHB16's GitHub stats" />
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inhcqce190593&theme=dark&hide_border=true)
+<br/>
 
+<a href="https://github.com/LHB16">
+  <img src="https://streak-stats.demolab.com/?user=LHB16&theme=tokyonight" alt="LHB16's Streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/LHB16">
+  <img src="https://github-readme-stats-nine-psi-qwdwlpuy5v.vercel.app/api/top-langs/?username=LHB16&theme=tokyonight&layout=compact&v=4#.svg" alt="Top Langs" />
+</a>
 </div>
 
 ---
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=inhcqce190593&icon=5&color=6)](https://visitcount.itsvg.in)
-
-</div>
