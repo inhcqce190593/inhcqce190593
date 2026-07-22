@@ -140,7 +140,7 @@ AI camera system detecting fall postures and sending instant emergency alerts â€
 
 <div align="center">
 
-<a href="https://github.com/LHB16">
+<a href="https://github.com/inhcqce190593">
   <img src="https://github-readme-stats-nine-psi-qwdwlpuy5v.vercel.app/api?username=LHB16&theme=tokyonight&show_icons=true&v=4#.svg" alt="LHB16's GitHub stats" />
 </a>
 
