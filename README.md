@@ -136,7 +136,7 @@ AI camera system detecting fall postures and sending instant emergency alerts â€
 
 ---
 
-## ğŸ“Š GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
